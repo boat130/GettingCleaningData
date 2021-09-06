@@ -1,8 +1,6 @@
 rm(list=ls())
 cat("\014")
 
-setwd("/Users/panuponglertthanatham/Desktop")
-
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(url, "file.zip")
 unzip("file.zip")
