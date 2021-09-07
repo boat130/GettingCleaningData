@@ -1,5 +1,5 @@
 # GettingCleaningData
-This R Script: run_analysis.R gets the data from UCI Machine Learning Repository [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones] and make it tidy by following these steps.
+This R Script: run_analysis.R gets the data from UCI Machine Learning Repository [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones] and makes it tidy by following these steps.
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
