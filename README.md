@@ -8,3 +8,6 @@ This R Script: run_analysis.R gets the data from UCI Machine Learning Repository
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 So at the end, we will have 2 datasets. One is a tidy dataset (from step 4) and the other is average of each variable (from step 5).
+
+# To be clear,
+You do not need to download any files before running the script.
